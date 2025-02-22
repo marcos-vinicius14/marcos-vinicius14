@@ -109,6 +109,7 @@ Me chamo Marcos Vinicius, tenho 22 anos. Atualmente, estou cursando Engenharia d
     align="left" 
     alt="GitHub Stats" 
     height="200" 
+    margin-bottom="20"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=marcos-vinicius14&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
